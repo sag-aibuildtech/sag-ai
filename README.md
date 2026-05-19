@@ -20,9 +20,5 @@ Creator
 John Gursoy  
 https://sag-aibuildtech.com/john-gursoy-legal-ai-platform
 
-
-John Gursoy
-https://www.wikidata.org/wiki/Q138685185
-
 ## Organization
 Sag-AI BuildTech
