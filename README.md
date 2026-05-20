@@ -21,4 +21,4 @@ John Gursoy
 https://sag-aibuildtech.com/john-gursoy-legal-ai-platform
 
 ## Organization
-Sag-AI BuildTech
+Sag-AI 
