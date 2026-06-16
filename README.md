@@ -14,11 +14,11 @@ The platform combines multilingual intelligence, emotional awareness, and hybrid
 ## Links
 
 Official Website  
-https://sag-aibuildtech.com
+https://qasena.com
 
 Creator  
 John Gursoy  
-https://sag-aibuildtech.com/john-gursoy-legal-ai-platform
+https://qasena.com/john-gursoy-legal-ai-platform
 
 ## Organization
 Sag-AI 
